@@ -4,7 +4,7 @@ This repo is used to build Django REST Runtime for development
 #Usage
 ##Build image on your machine
 ```bash
-git clone git@github.com:yanqiw/Django-REST-Runtime.git
+git clone https://github.com/yanqiw/Django-REST-Runtime.git
 cd Django-REST-Runtime
 docker build -t django-rest-runtime .
 ```
